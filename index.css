@@ -1,0 +1,27 @@
+body {
+	background: linear-gradient(75deg, red, orange, orange, orange);
+}
+#s {
+	font-family: "Impact";
+	font-size: 40;
+	color: white
+}
+#d {
+	font-family: "Impact";
+	font-size: 25;
+	color: white
+}
+button {
+	border-radius: 20px;
+	height: 50px;
+  width: 150px;
+  background: linear-gradient(25deg, white, white, black); 
+  border: 0px solid red;
+}
+button:hover {
+	border-radius: 20px;
+	height: 50px;
+  width: 150px;
+  background: linear-gradient(50deg, blue, blue, aqua, aqua); 
+  border: 0px solid red;
+}
